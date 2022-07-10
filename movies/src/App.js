@@ -1,6 +1,6 @@
 import Person from "./Person";
 const App = () => {
-  let name = prompt("whats your name?");
+  let name = "Yas";
 
   return (
     <div className="App">
